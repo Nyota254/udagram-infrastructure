@@ -3,6 +3,8 @@
 ## URL
 http://udagr-Udagr-1GC825894EVXY-754234633.us-east-1.elb.amazonaws.com
 
+Disclaimer: The link may not be working due to costs involved in spining up ec2 instances
+
 ## Files
 
 The is the infrastructure setup of the udagram application.
